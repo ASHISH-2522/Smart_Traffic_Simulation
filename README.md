@@ -104,7 +104,9 @@ The simulation provides real-time metrics:
 - Vehicles per unit time
 - Emergency vehicle response times
 
-![Simulation Analytics](https://via.placeholder.com/600x300.png?text=Traffic+Analytics+Dashboard)
+
+## Demo Video
+[Watch Simulation Demo](assets/videos/demo.mp4)
 
 ## Contributing
 
